@@ -12,11 +12,11 @@ body {
   width: 60%;
   background: rgb(25, 27, 26);
   margin: 5px 5px 0px 30px;
+  color: #fff;
 }
 
 .typewriter h1 {
   word-wrap: break-word;
-  color: #fff;
   font-family: monospace;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid rgb(238, 197, 121); /* The typwriter cursor */
@@ -30,7 +30,6 @@ body {
 
 .typewriter h2 {
   word-wrap: break-word;
-  color: #fff;
   font-family: monospace;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid rgb(238, 197, 121); /* The typwriter cursor */
