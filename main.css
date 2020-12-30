@@ -7,6 +7,12 @@ body {
 }
 
 /* DEMO-SPECIFIC STYLES */
+.typewriter {
+  width: 30px;
+  background: rgb(25, 27, 26);
+
+}
+
 .typewriter h1 {
   word-wrap: break-word;
   color: #fff;
