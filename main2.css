@@ -1,5 +1,5 @@
 /* STYLE 2 */
-.wrapper {
+  .wrapper {
     height: 100vh;
     display: flex;
     align-items: center;
@@ -15,6 +15,7 @@
     font-family: monospace;
     font-size: 2em;
   }
+
   
   @keyframes typing {
     from {
